@@ -1,4 +1,4 @@
-**Observação:** Este projeto foi construído com base em um template [tart Bootstrap - Creative] licenciado sob a MIT License. O código original foi modificado e adaptado para as necessidades deste projeto.
+**Observação:** Este projeto foi construído com base em um template [tart Bootstrap - Creative] licenciado sob a MIT License. O código original foi modificado e adaptado para as necessidades deste projeto. Este projeto tem como objetivo mostrar modelo de portfolio pessoal em inglês.
 
 **Agradecimentos ao autor original do template por fornecer uma base sólida para este projeto!**
 
